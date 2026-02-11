@@ -1,6 +1,6 @@
 # 👓 Face Shape Classifier (Full Stack)
 
-### 🚀 [Click Here to Try the Live Demo](https://your-app-name.vercel.app)
+### 🚀 [Click Here to Try the Live Demo](https://face-shape-classifier.vercel.app/)
 
 A full-stack AI application that analyzes facial features to predict face shape (Oval, Round, Square, Heart, Oblong) and recommends suitable eyewear.
 
