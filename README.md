@@ -4,7 +4,7 @@
 
 A full-stack AI application that analyzes facial features to predict face shape (Oval, Round, Square, Heart, Oblong) and recommends suitable eyewear.
 
-> **⚠️ Note:** The backend is hosted on Render's free tier. The first prediction may take **60-90 seconds** to wake up the server. Please be patient! Subsequent requests will be instant.
+> **⚠️ Note:** The backend is hosted on Render's free tier. The first prediction may take upto **60-90 seconds** to wake up the server. Please be patient! Subsequent requests will be instant.
 
 ## 🏗️ Architecture
 
